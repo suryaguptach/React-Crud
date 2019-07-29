@@ -1,0 +1,4 @@
+{
+    "appenders": { "mern": { "type": "file", "filename": "mern.log" } },
+    "categories": { "default": { "appenders": ["mern"], "level":"info" } }
+}
